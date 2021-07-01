@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: discord-debug
+Version: 0.0.6
+Summary: This is can debug for discord.ext
+Home-page: https://github.com/tuna2134/easy-json.py
+Author: DMS
+Author-email: masato190411@gmail.com
+License: UNKNOWN
+Description: No comment
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.8
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

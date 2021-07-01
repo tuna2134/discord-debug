@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+discord_debug/__init__.py
+discord_debug.egg-info/PKG-INFO
+discord_debug.egg-info/SOURCES.txt
+discord_debug.egg-info/dependency_links.txt
+discord_debug.egg-info/requires.txt
+discord_debug.egg-info/top_level.txt
